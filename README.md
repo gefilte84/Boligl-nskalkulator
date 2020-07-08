@@ -1,0 +1,2 @@
+# Boligl-nskalkulator
+Med GUI
